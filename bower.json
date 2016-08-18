@@ -1,0 +1,17 @@
+{
+    "name": "sarala-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Andres Torresi"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/sarala-bower.git"
+    },
+    "description": "Sarala font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
